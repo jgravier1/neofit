@@ -1,6 +1,6 @@
-# 🏋️‍♂️ NEOFIT - Tu Compañero de Fitness en Línea
+# 🏋️‍♂️ NEOFIT 
 
-**NEOFIT** es una página web moderna y responsiva diseñada para motivarte, guiarte y acompañarte en tu camino hacia una vida más saludable. Con un enfoque en diseño atractivo y funcionalidad clara, NEOFIT busca convertirse en la plataforma ideal para entusiastas del fitness de todos los niveles.
+**NEOFIT** es una página wEB moderna y responsiva diseñada para motivarte, guiarte y acompañarte en tu camino hacia una vida más saludable. Con un enfoque en diseño atractivo y funcionalidad clara, NEOFIT busca convertirse en la plataforma ideal para entusiastas del fitness de todos los niveles.
 
 ## 🚀 Características
 
